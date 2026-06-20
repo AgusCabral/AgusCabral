@@ -34,9 +34,9 @@
     </g>
 
     <!-- main text -->
-    <text x="350" y="158" text-anchor="middle" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="32" font-weight="bold" fill="#FFFFFF" filter="url(#textGlow)">¡HOLA, SOY AGUSTINA!</text>
+    <text x="350" y="158" text-anchor="middle" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="32" font-weight="bold" fill="#FF96B9" filter="url(#textGlow)">AGUSTINA CABRAL</text>
 
     <!-- subtitle -->
-    <text x="350" y="192" text-anchor="middle" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="18" font-weight="bold" letter-spacing="1" fill="#FFD6E5">QA SSR</text>
+    <text x="350" y="192" text-anchor="middle" font-family="'Trebuchet MS', Verdana, sans-serif" font-size="18" font-weight="bold" letter-spacing="1" fill="#FF96B9">QA SSR</text>
   </g>
 </svg>
