@@ -5,8 +5,6 @@
     </filter>
   </defs>
 
-  <rect width="800" height="200" fill="#FFD6E8"/>
-
   <g opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="0.9s" begin="0s" fill="freeze"/>
 
