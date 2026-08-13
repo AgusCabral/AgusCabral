@@ -29,12 +29,11 @@
 
 ![Postman](https://img.shields.io/badge/Postman-FFD1DC?style=for-the-badge&logo=postman&logoColor=6b4f4f)
 ![Bruno](https://img.shields.io/badge/Bruno-E0C3FC?style=for-the-badge&logo=bruno&logoColor=6b4f4f)
-![MySQL](https://img.shields.io/badge/MySQL-C7CEEA?style=for-the-badge&logo=mysql&logoColor=6b4f4f)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-C7CEEA?style=for-the-badge&logo=microsoftsqlserver&logoColor=6b4f4f)
 ![Docker](https://img.shields.io/badge/Docker-B5EAD7?style=for-the-badge&logo=docker&logoColor=6b4f4f)
 ![Playwright](https://img.shields.io/badge/Playwright-FFDAC1?style=for-the-badge&logo=playwright&logoColor=6b4f4f)
 ![Selenium](https://img.shields.io/badge/Selenium-C8A2C8?style=for-the-badge&logo=selenium&logoColor=6b4f4f)
 ![ALM](https://img.shields.io/badge/HP%20ALM-FFD1DC?style=for-the-badge&logoColor=6b4f4f)
-![Replit](https://img.shields.io/badge/Replit-FFE5B4?style=for-the-badge&logo=replit&logoColor=6b4f4f)
 
 </div>
 
