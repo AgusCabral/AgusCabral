@@ -33,6 +33,7 @@
 ![Docker](https://img.shields.io/badge/Docker-B5EAD7?style=for-the-badge&logo=docker&logoColor=6b4f4f)
 ![Playwright](https://img.shields.io/badge/Playwright-FFDAC1?style=for-the-badge&logo=playwright&logoColor=6b4f4f)
 ![Selenium](https://img.shields.io/badge/Selenium-C8A2C8?style=for-the-badge&logo=selenium&logoColor=6b4f4f)
+![VS Code](https://img.shields.io/badge/VS%20Code-FFDCE8?style=for-the-badge&logo=visualstudiocode&logoColor=6b4f4f)
 ![ALM](https://img.shields.io/badge/HP%20ALM-FFD1DC?style=for-the-badge&logoColor=6b4f4f)
 
 </div>
@@ -70,7 +71,7 @@ Para desconectar, y enfrentar nuevos desafios. Me interesa el desarrollo y testi
 ### 💻
 **Desarrollo**
 <br>
-Realizo proyectos personales, y automatizo pruebas de apis, back y front.
+Realizo proyectos personales, y automatizo pruebas de APIs y Front.
 
 </td>
 </tr>
