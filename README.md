@@ -70,7 +70,7 @@ Para desconectar, y enfrentar nuevos desafios. Me interesa el desarrollo y testi
 ### 💻
 **Desarrollo**
 <br>
-Hago proyectos personales tanto de front como back para ir adentrandome en otros horizontes.
+Realizo proyectos personales, y automatizo pruebas de apis, back y front.
 
 </td>
 </tr>
