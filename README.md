@@ -6,9 +6,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=FDF6EC&height=65&text=Sobre%20m%C3%AD&fontSize=20&fontColor=F48FB1&animation=fadeIn" width="100%"/>
 
-- 🔍 **4+ años** de experiencia en QA, actualmente profundizando en **automatización de APIs** (Bruno, Postman) y **Front** (Playwright, Selenium).
-- 🏦 Formo parte de un equipo en un **proyecto del sector bancario** para una empresa líder, sumando experiencia sólida en *banking*.
-- 🎨 Cuando no estoy testeando, me encontrás **dibujando** o jugando algún videojuego.
+- 🔍 **4+ años** de experiencia en QA, especializada en testing funcional, regresión, y actualmente profundizando en **automatización de APIs** (Bruno, Postman) y **Front** (Playwright, Selenium).
+- 🏦 Experiencia en proyectos del **sector bancario**, trabajando bajo altos estándares de calidad y procesos regulados.
+- 📋 Certificada **ISTQB CTFL** y **Oracle Cloud Infrastructure 2025**, con foco en buenas prácticas y mejora continua.
+- 🌱 Actualmente profundizando en **automatización end-to-end** y estrategias de testing para arquitecturas modernas.
+- 🎨 Apasionada del arte y el diseño — creo que la mirada creativa aporta de forma activa en todas las áreas.
 
 <img src="https://capsule-render.vercel.app/api?type=cylinder&color=FDF6EC&height=65&text=Skills&fontSize=20&fontColor=F48FB1&animation=fadeIn" width="100%"/>
 
