@@ -75,5 +75,3 @@ Hago proyectos personales tanto de front como back para ir adentrandome en otros
 </td>
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C7CEEA,50:E0C3FC,100:FFD6E8&height=120&section=footer" width="100%"/>
